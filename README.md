@@ -6,9 +6,12 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 https://github.com/codesxnitish/Tic-Tac-Toe
 
 ---
+📸 Screenshots
+     Home Screen
+![Home Screen](images/home.png)
 
-📸 Screenshot
-![Tic Tac Toe Screenshot](images/screenshot.png)
+    Winner Screen
+![Winner Screen](images/winner.png)
 
 ---
 
