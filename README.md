@@ -7,10 +7,10 @@ https://github.com/codesxnitish/Tic-Tac-Toe
 
 ---
 📸 Screenshots
-     Home Screen
+ Home Screen
 ![Home Screen](images/home.png)
 
-    Winner Screen
+ Winner Screen
 ![Winner Screen](images/winner.png)
 
 ---
