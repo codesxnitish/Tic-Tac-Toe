@@ -7,13 +7,8 @@ https://github.com/codesxnitish/Tic-Tac-Toe
 
 ---
 📸 Screenshots
- Home Screen
-![Home Screen](images/home.png)
-
- Winner Screen
-![Winner Screen](images/winner.png)
-
----
+<img width="1348" height="637" alt="winner" src="https://github.com/user-attachments/assets/f042d6ce-f3bd-481d-a7ab-d5ecdf8eada5" />
+<img width="1365" height="719" alt="home" src="https://github.com/user-attachments/assets/61ad4f2e-fd66-489f-8c5a-87644ec9662a" />
 
 ✨ Features
 
@@ -50,9 +45,7 @@ tic-tac-toe/
 ```
 🎮 How to Play
 
-1. Player O<img width="1348" height="637" alt="winner" src="https://github.com/user-attachments/assets/f042d6ce-f3bd-481d-a7ab-d5ecdf8eada5" />
-<img width="1365" height="719" alt="home" src="https://github.com/user-attachments/assets/61ad4f2e-fd66-489f-8c5a-87644ec9662a" />
- starts the game.
+1. Player O starts the game.
 2. Players take turns placing their marks on the grid.
 3. The first player to get **three marks in a row** (horizontal, vertical, or diagonal) wins.
 4. If all cells are filled and no player wins, the game ends in a draw.
